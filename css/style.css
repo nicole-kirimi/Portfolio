@@ -11,8 +11,9 @@
     background-color: antiquewhite;
 }
 
-.move{
+.instruct{
     text-align: center;
+    font: italic;
 }
 
 .underline{
