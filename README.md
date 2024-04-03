@@ -6,7 +6,7 @@ The languages used are:
 *CSS
 This is a repository for my week -1 Independent project.
 ##Instuctions: There is a link which you can use to acces the live view of the website.
-##This is the link: https://github.com/nicole-kirimi/Portfolio
+##This is the link: https://nicole-kirimi.github.io/Portfolio/
 ###LICENSE:
 MIT License
 
